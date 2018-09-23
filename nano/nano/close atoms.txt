@@ -1,0 +1,448 @@
+
+number: 0      type: 1     box: 000     coordinate: {0, 0, 0}
+The closest atoms: 
+number: 2      type: 1     box: 000     coordinate: {0, 0.0477023, 0}     distance: 0.0477023
+
+number: 1      type: 1     box: 000     coordinate: {0.041, 0.0716253, 0}
+The closest atoms: 
+number: 2      type: 1     box: 000     coordinate: {0, 0.0477023, 0}     distance: 0.047469
+
+number: 2      type: 1     box: 000     coordinate: {0, 0.0477023, 0}
+The closest atoms: 
+number: 1      type: 1     box: 000     coordinate: {0.041, 0.0716253, 0}     distance: 0.047469
+
+number: 3      type: 1     box: 000     coordinate: {0.041, 0.119375, 0}
+The closest atoms: 
+number: 4      type: 1     box: 000     coordinate: {0, 0.14325, 0}     distance: 0.0474449
+
+number: 4      type: 1     box: 000     coordinate: {0, 0.14325, 0}
+The closest atoms: 
+number: 3      type: 1     box: 000     coordinate: {0.041, 0.119375, 0}     distance: 0.0474449
+
+number: 5      type: 1     box: 000     coordinate: {0.041, 0.214875, 0}
+The closest atoms: 
+number: 6      type: 1     box: 000     coordinate: {0, 0.190952, 0}     distance: 0.0474689
+
+number: 6      type: 1     box: 000     coordinate: {0, 0.190952, 0}
+The closest atoms: 
+number: 5      type: 1     box: 000     coordinate: {0.041, 0.214875, 0}     distance: 0.0474689
+
+number: 7      type: 1     box: 000     coordinate: {0.041, 0.262625, 0}
+The closest atoms: 
+number: 8      type: 1     box: 000     coordinate: {0, 0.2865, 0}     distance: 0.0474449
+
+number: 8      type: 1     box: 000     coordinate: {0, 0.2865, 0}
+The closest atoms: 
+number: 7      type: 1     box: 000     coordinate: {0.041, 0.262625, 0}     distance: 0.0474449
+
+number: 9      type: 1     box: 000     coordinate: {0.041, 0.358125, 0}
+The closest atoms: 
+number: 10      type: 1     box: 000     coordinate: {0, 0.334202, 0}     distance: 0.0474689
+
+number: 10      type: 1     box: 000     coordinate: {0, 0.334202, 0}
+The closest atoms: 
+number: 9      type: 1     box: 000     coordinate: {0.041, 0.358125, 0}     distance: 0.0474689
+
+number: 11      type: 1     box: 000     coordinate: {0.041, 0.405875, 0}
+The closest atoms: 
+number: 12      type: 1     box: 000     coordinate: {0, 0.42975, 0}     distance: 0.0474449
+
+number: 12      type: 1     box: 000     coordinate: {0, 0.42975, 0}
+The closest atoms: 
+number: 11      type: 1     box: 000     coordinate: {0.041, 0.405875, 0}     distance: 0.0474449
+
+number: 13      type: 1     box: 000     coordinate: {0.041, 0.501375, 0}
+The closest atoms: 
+number: 14      type: 1     box: 000     coordinate: {0, 0.477452, 0}     distance: 0.0474689
+
+number: 14      type: 1     box: 000     coordinate: {0, 0.477452, 0}
+The closest atoms: 
+number: 13      type: 1     box: 000     coordinate: {0.041, 0.501375, 0}     distance: 0.0474689
+
+number: 15      type: 1     box: 000     coordinate: {0.041, 0.549125, 0}
+The closest atoms: 
+number: 13      type: 1     box: 000     coordinate: {0.041, 0.501375, 0}     distance: 0.04775
+
+number: 16      type: 1     box: 000     coordinate: {0.082, 0, 0}
+The closest atoms: 
+number: 18      type: 1     box: 000     coordinate: {0.082, 0.0477023, 0}     distance: 0.0477023
+
+number: 17      type: 1     box: 000     coordinate: {0.123, 0.0716253, 0}
+The closest atoms: 
+number: 18      type: 1     box: 000     coordinate: {0.082, 0.0477023, 0}     distance: 0.047469
+
+number: 18      type: 1     box: 000     coordinate: {0.082, 0.0477023, 0}
+The closest atoms: 
+number: 17      type: 1     box: 000     coordinate: {0.123, 0.0716253, 0}     distance: 0.047469
+
+number: 19      type: 1     box: 000     coordinate: {0.123, 0.119375, 0}
+The closest atoms: 
+number: 20      type: 1     box: 000     coordinate: {0.082, 0.14325, 0}     distance: 0.0474449
+
+number: 20      type: 1     box: 000     coordinate: {0.082, 0.14325, 0}
+The closest atoms: 
+number: 19      type: 1     box: 000     coordinate: {0.123, 0.119375, 0}     distance: 0.0474449
+
+number: 21      type: 1     box: 000     coordinate: {0.123, 0.214875, 0}
+The closest atoms: 
+number: 22      type: 1     box: 000     coordinate: {0.082, 0.190952, 0}     distance: 0.0474689
+
+number: 22      type: 1     box: 000     coordinate: {0.082, 0.190952, 0}
+The closest atoms: 
+number: 21      type: 1     box: 000     coordinate: {0.123, 0.214875, 0}     distance: 0.0474689
+
+number: 23      type: 1     box: 000     coordinate: {0.123, 0.262625, 0}
+The closest atoms: 
+number: 24      type: 1     box: 000     coordinate: {0.082, 0.2865, 0}     distance: 0.0474449
+
+number: 24      type: 1     box: 000     coordinate: {0.082, 0.2865, 0}
+The closest atoms: 
+number: 23      type: 1     box: 000     coordinate: {0.123, 0.262625, 0}     distance: 0.0474449
+
+number: 25      type: 1     box: 000     coordinate: {0.123, 0.358125, 0}
+The closest atoms: 
+number: 26      type: 1     box: 000     coordinate: {0.082, 0.334202, 0}     distance: 0.0474689
+
+number: 26      type: 1     box: 000     coordinate: {0.082, 0.334202, 0}
+The closest atoms: 
+number: 25      type: 1     box: 000     coordinate: {0.123, 0.358125, 0}     distance: 0.0474689
+
+number: 27      type: 1     box: 000     coordinate: {0.123, 0.405875, 0}
+The closest atoms: 
+number: 28      type: 1     box: 000     coordinate: {0.082, 0.42975, 0}     distance: 0.0474449
+
+number: 28      type: 1     box: 000     coordinate: {0.082, 0.42975, 0}
+The closest atoms: 
+number: 27      type: 1     box: 000     coordinate: {0.123, 0.405875, 0}     distance: 0.0474449
+
+number: 29      type: 1     box: 000     coordinate: {0.123, 0.501375, 0}
+The closest atoms: 
+number: 30      type: 1     box: 000     coordinate: {0.082, 0.477452, 0}     distance: 0.0474689
+
+number: 30      type: 1     box: 000     coordinate: {0.082, 0.477452, 0}
+The closest atoms: 
+number: 29      type: 1     box: 000     coordinate: {0.123, 0.501375, 0}     distance: 0.0474689
+
+number: 31      type: 1     box: 000     coordinate: {0.123, 0.549125, 0}
+The closest atoms: 
+number: 29      type: 1     box: 000     coordinate: {0.123, 0.501375, 0}     distance: 0.04775
+
+number: 32      type: 1     box: 000     coordinate: {0.164, 0, 0}
+The closest atoms: 
+number: 34      type: 1     box: 000     coordinate: {0.164, 0.0477023, 0}     distance: 0.0477023
+
+number: 33      type: 1     box: 000     coordinate: {0.205, 0.0716253, 0}
+The closest atoms: 
+number: 34      type: 1     box: 000     coordinate: {0.164, 0.0477023, 0}     distance: 0.047469
+
+number: 34      type: 1     box: 000     coordinate: {0.164, 0.0477023, 0}
+The closest atoms: 
+number: 33      type: 1     box: 000     coordinate: {0.205, 0.0716253, 0}     distance: 0.047469
+
+number: 35      type: 1     box: 000     coordinate: {0.205, 0.119375, 0}
+The closest atoms: 
+number: 36      type: 1     box: 000     coordinate: {0.164, 0.14325, 0}     distance: 0.0474449
+
+number: 36      type: 1     box: 000     coordinate: {0.164, 0.14325, 0}
+The closest atoms: 
+number: 35      type: 1     box: 000     coordinate: {0.205, 0.119375, 0}     distance: 0.0474449
+
+number: 37      type: 1     box: 000     coordinate: {0.205, 0.214875, 0}
+The closest atoms: 
+number: 38      type: 1     box: 000     coordinate: {0.164, 0.190952, 0}     distance: 0.0474689
+
+number: 38      type: 1     box: 000     coordinate: {0.164, 0.190952, 0}
+The closest atoms: 
+number: 37      type: 1     box: 000     coordinate: {0.205, 0.214875, 0}     distance: 0.0474689
+
+number: 39      type: 1     box: 000     coordinate: {0.205, 0.262625, 0}
+The closest atoms: 
+number: 40      type: 1     box: 000     coordinate: {0.164, 0.2865, 0}     distance: 0.0474449
+
+number: 40      type: 1     box: 000     coordinate: {0.164, 0.2865, 0}
+The closest atoms: 
+number: 39      type: 1     box: 000     coordinate: {0.205, 0.262625, 0}     distance: 0.0474449
+
+number: 41      type: 1     box: 000     coordinate: {0.205, 0.358125, 0}
+The closest atoms: 
+number: 42      type: 1     box: 000     coordinate: {0.164, 0.334202, 0}     distance: 0.0474689
+
+number: 42      type: 1     box: 000     coordinate: {0.164, 0.334202, 0}
+The closest atoms: 
+number: 41      type: 1     box: 000     coordinate: {0.205, 0.358125, 0}     distance: 0.0474689
+
+number: 43      type: 1     box: 000     coordinate: {0.205, 0.405875, 0}
+The closest atoms: 
+number: 44      type: 1     box: 000     coordinate: {0.164, 0.42975, 0}     distance: 0.0474449
+
+number: 44      type: 1     box: 000     coordinate: {0.164, 0.42975, 0}
+The closest atoms: 
+number: 43      type: 1     box: 000     coordinate: {0.205, 0.405875, 0}     distance: 0.0474449
+
+number: 45      type: 1     box: 000     coordinate: {0.205, 0.501375, 0}
+The closest atoms: 
+number: 46      type: 1     box: 000     coordinate: {0.164, 0.477452, 0}     distance: 0.0474689
+
+number: 46      type: 1     box: 000     coordinate: {0.164, 0.477452, 0}
+The closest atoms: 
+number: 45      type: 1     box: 000     coordinate: {0.205, 0.501375, 0}     distance: 0.0474689
+
+number: 47      type: 1     box: 000     coordinate: {0.205, 0.549125, 0}
+The closest atoms: 
+number: 45      type: 1     box: 000     coordinate: {0.205, 0.501375, 0}     distance: 0.04775
+
+number: 48      type: 1     box: 000     coordinate: {0.246, 0, 0}
+The closest atoms: 
+number: 50      type: 1     box: 000     coordinate: {0.246, 0.0477023, 0}     distance: 0.0477023
+
+number: 49      type: 1     box: 000     coordinate: {0.287, 0.0716253, 0}
+The closest atoms: 
+number: 50      type: 1     box: 000     coordinate: {0.246, 0.0477023, 0}     distance: 0.047469
+
+number: 50      type: 1     box: 000     coordinate: {0.246, 0.0477023, 0}
+The closest atoms: 
+number: 49      type: 1     box: 000     coordinate: {0.287, 0.0716253, 0}     distance: 0.047469
+
+number: 51      type: 1     box: 000     coordinate: {0.287, 0.119375, 0}
+The closest atoms: 
+number: 52      type: 1     box: 000     coordinate: {0.246, 0.14325, 0}     distance: 0.0474449
+
+number: 52      type: 1     box: 000     coordinate: {0.246, 0.14325, 0}
+The closest atoms: 
+number: 51      type: 1     box: 000     coordinate: {0.287, 0.119375, 0}     distance: 0.0474449
+
+number: 53      type: 1     box: 000     coordinate: {0.287, 0.214875, 0}
+The closest atoms: 
+number: 54      type: 1     box: 000     coordinate: {0.246, 0.190952, 0}     distance: 0.0474689
+
+number: 54      type: 1     box: 000     coordinate: {0.246, 0.190952, 0}
+The closest atoms: 
+number: 53      type: 1     box: 000     coordinate: {0.287, 0.214875, 0}     distance: 0.0474689
+
+number: 55      type: 1     box: 000     coordinate: {0.287, 0.262625, 0}
+The closest atoms: 
+number: 56      type: 1     box: 000     coordinate: {0.246, 0.2865, 0}     distance: 0.0474449
+
+number: 56      type: 1     box: 000     coordinate: {0.246, 0.2865, 0}
+The closest atoms: 
+number: 55      type: 1     box: 000     coordinate: {0.287, 0.262625, 0}     distance: 0.0474449
+
+number: 57      type: 1     box: 000     coordinate: {0.287, 0.358125, 0}
+The closest atoms: 
+number: 58      type: 1     box: 000     coordinate: {0.246, 0.334202, 0}     distance: 0.0474689
+
+number: 58      type: 1     box: 000     coordinate: {0.246, 0.334202, 0}
+The closest atoms: 
+number: 57      type: 1     box: 000     coordinate: {0.287, 0.358125, 0}     distance: 0.0474689
+
+number: 59      type: 1     box: 000     coordinate: {0.287, 0.405875, 0}
+The closest atoms: 
+number: 60      type: 1     box: 000     coordinate: {0.246, 0.42975, 0}     distance: 0.0474449
+
+number: 60      type: 1     box: 000     coordinate: {0.246, 0.42975, 0}
+The closest atoms: 
+number: 59      type: 1     box: 000     coordinate: {0.287, 0.405875, 0}     distance: 0.0474449
+
+number: 61      type: 1     box: 000     coordinate: {0.287, 0.501375, 0}
+The closest atoms: 
+number: 62      type: 1     box: 000     coordinate: {0.246, 0.477452, 0}     distance: 0.0474689
+
+number: 62      type: 1     box: 000     coordinate: {0.246, 0.477452, 0}
+The closest atoms: 
+number: 61      type: 1     box: 000     coordinate: {0.287, 0.501375, 0}     distance: 0.0474689
+
+number: 63      type: 1     box: 000     coordinate: {0.287, 0.549125, 0}
+The closest atoms: 
+number: 61      type: 1     box: 000     coordinate: {0.287, 0.501375, 0}     distance: 0.04775
+
+number: 64      type: 1     box: 000     coordinate: {0.328, 0, 0}
+The closest atoms: 
+number: 66      type: 1     box: 000     coordinate: {0.328, 0.0477023, 0}     distance: 0.0477023
+
+number: 65      type: 1     box: 000     coordinate: {0.369, 0.0716253, 0}
+The closest atoms: 
+number: 66      type: 1     box: 000     coordinate: {0.328, 0.0477023, 0}     distance: 0.047469
+
+number: 66      type: 1     box: 000     coordinate: {0.328, 0.0477023, 0}
+The closest atoms: 
+number: 65      type: 1     box: 000     coordinate: {0.369, 0.0716253, 0}     distance: 0.047469
+
+number: 67      type: 1     box: 000     coordinate: {0.369, 0.119375, 0}
+The closest atoms: 
+number: 68      type: 1     box: 000     coordinate: {0.328, 0.14325, 0}     distance: 0.0474449
+
+number: 68      type: 1     box: 000     coordinate: {0.328, 0.14325, 0}
+The closest atoms: 
+number: 67      type: 1     box: 000     coordinate: {0.369, 0.119375, 0}     distance: 0.0474449
+
+number: 69      type: 1     box: 000     coordinate: {0.369, 0.214875, 0}
+The closest atoms: 
+number: 70      type: 1     box: 000     coordinate: {0.328, 0.190952, 0}     distance: 0.0474689
+
+number: 70      type: 1     box: 000     coordinate: {0.328, 0.190952, 0}
+The closest atoms: 
+number: 69      type: 1     box: 000     coordinate: {0.369, 0.214875, 0}     distance: 0.0474689
+
+number: 71      type: 1     box: 000     coordinate: {0.369, 0.262625, 0}
+The closest atoms: 
+number: 72      type: 1     box: 000     coordinate: {0.328, 0.2865, 0}     distance: 0.0474449
+
+number: 72      type: 1     box: 000     coordinate: {0.328, 0.2865, 0}
+The closest atoms: 
+number: 71      type: 1     box: 000     coordinate: {0.369, 0.262625, 0}     distance: 0.0474449
+
+number: 73      type: 1     box: 000     coordinate: {0.369, 0.358125, 0}
+The closest atoms: 
+number: 74      type: 1     box: 000     coordinate: {0.328, 0.334202, 0}     distance: 0.0474689
+
+number: 74      type: 1     box: 000     coordinate: {0.328, 0.334202, 0}
+The closest atoms: 
+number: 73      type: 1     box: 000     coordinate: {0.369, 0.358125, 0}     distance: 0.0474689
+
+number: 75      type: 1     box: 000     coordinate: {0.369, 0.405875, 0}
+The closest atoms: 
+number: 76      type: 1     box: 000     coordinate: {0.328, 0.42975, 0}     distance: 0.0474449
+
+number: 76      type: 1     box: 000     coordinate: {0.328, 0.42975, 0}
+The closest atoms: 
+number: 75      type: 1     box: 000     coordinate: {0.369, 0.405875, 0}     distance: 0.0474449
+
+number: 77      type: 1     box: 000     coordinate: {0.369, 0.501375, 0}
+The closest atoms: 
+number: 78      type: 1     box: 000     coordinate: {0.328, 0.477452, 0}     distance: 0.0474689
+
+number: 78      type: 1     box: 000     coordinate: {0.328, 0.477452, 0}
+The closest atoms: 
+number: 77      type: 1     box: 000     coordinate: {0.369, 0.501375, 0}     distance: 0.0474689
+
+number: 79      type: 1     box: 000     coordinate: {0.369, 0.549125, 0}
+The closest atoms: 
+number: 77      type: 1     box: 000     coordinate: {0.369, 0.501375, 0}     distance: 0.04775
+
+number: 80      type: 1     box: 000     coordinate: {0.41, 0, 0}
+The closest atoms: 
+number: 82      type: 1     box: 000     coordinate: {0.41, 0.0477023, 0}     distance: 0.0477023
+
+number: 81      type: 1     box: 000     coordinate: {0.451, 0.0716253, 0}
+The closest atoms: 
+number: 98      type: 1     box: 000     coordinate: {0.492, 0.0477023, 0}     distance: 0.047469
+
+number: 82      type: 1     box: 000     coordinate: {0.41, 0.0477023, 0}
+The closest atoms: 
+number: 65      type: 1     box: 000     coordinate: {0.369, 0.0716253, 0}     distance: 0.047469
+
+number: 83      type: 1     box: 000     coordinate: {0.451, 0.119375, 0}
+The closest atoms: 
+number: 100      type: 1     box: 000     coordinate: {0.492, 0.14325, 0}     distance: 0.0474449
+
+number: 84      type: 1     box: 000     coordinate: {0.41, 0.14325, 0}
+The closest atoms: 
+number: 67      type: 1     box: 000     coordinate: {0.369, 0.119375, 0}     distance: 0.0474449
+
+number: 85      type: 1     box: 000     coordinate: {0.451, 0.214875, 0}
+The closest atoms: 
+number: 102      type: 1     box: 000     coordinate: {0.492, 0.190952, 0}     distance: 0.0474689
+
+number: 86      type: 1     box: 000     coordinate: {0.41, 0.190952, 0}
+The closest atoms: 
+number: 69      type: 1     box: 000     coordinate: {0.369, 0.214875, 0}     distance: 0.0474689
+
+number: 87      type: 1     box: 000     coordinate: {0.451, 0.262625, 0}
+The closest atoms: 
+number: 104      type: 1     box: 000     coordinate: {0.492, 0.2865, 0}     distance: 0.0474449
+
+number: 88      type: 1     box: 000     coordinate: {0.41, 0.2865, 0}
+The closest atoms: 
+number: 71      type: 1     box: 000     coordinate: {0.369, 0.262625, 0}     distance: 0.0474449
+
+number: 89      type: 1     box: 000     coordinate: {0.451, 0.358125, 0}
+The closest atoms: 
+number: 106      type: 1     box: 000     coordinate: {0.492, 0.334202, 0}     distance: 0.0474689
+
+number: 90      type: 1     box: 000     coordinate: {0.41, 0.334202, 0}
+The closest atoms: 
+number: 73      type: 1     box: 000     coordinate: {0.369, 0.358125, 0}     distance: 0.0474689
+
+number: 91      type: 1     box: 000     coordinate: {0.451, 0.405875, 0}
+The closest atoms: 
+number: 108      type: 1     box: 000     coordinate: {0.492, 0.42975, 0}     distance: 0.0474449
+
+number: 92      type: 1     box: 000     coordinate: {0.41, 0.42975, 0}
+The closest atoms: 
+number: 75      type: 1     box: 000     coordinate: {0.369, 0.405875, 0}     distance: 0.0474449
+
+number: 93      type: 1     box: 000     coordinate: {0.451, 0.501375, 0}
+The closest atoms: 
+number: 110      type: 1     box: 000     coordinate: {0.492, 0.477452, 0}     distance: 0.0474689
+
+number: 94      type: 1     box: 000     coordinate: {0.41, 0.477452, 0}
+The closest atoms: 
+number: 77      type: 1     box: 000     coordinate: {0.369, 0.501375, 0}     distance: 0.0474689
+
+number: 95      type: 1     box: 000     coordinate: {0.451, 0.549125, 0}
+The closest atoms: 
+number: 93      type: 1     box: 000     coordinate: {0.451, 0.501375, 0}     distance: 0.04775
+
+number: 96      type: 1     box: 000     coordinate: {0.492, 0, 0}
+The closest atoms: 
+number: 98      type: 1     box: 000     coordinate: {0.492, 0.0477023, 0}     distance: 0.0477023
+
+number: 97      type: 1     box: 000     coordinate: {0.533, 0.0716253, 0}
+The closest atoms: 
+number: 98      type: 1     box: 000     coordinate: {0.492, 0.0477023, 0}     distance: 0.047469
+
+number: 98      type: 1     box: 000     coordinate: {0.492, 0.0477023, 0}
+The closest atoms: 
+number: 81      type: 1     box: 000     coordinate: {0.451, 0.0716253, 0}     distance: 0.047469
+
+number: 99      type: 1     box: 000     coordinate: {0.533, 0.119375, 0}
+The closest atoms: 
+number: 100      type: 1     box: 000     coordinate: {0.492, 0.14325, 0}     distance: 0.0474449
+
+number: 100      type: 1     box: 000     coordinate: {0.492, 0.14325, 0}
+The closest atoms: 
+number: 83      type: 1     box: 000     coordinate: {0.451, 0.119375, 0}     distance: 0.0474449
+
+number: 101      type: 1     box: 000     coordinate: {0.533, 0.214875, 0}
+The closest atoms: 
+number: 102      type: 1     box: 000     coordinate: {0.492, 0.190952, 0}     distance: 0.0474689
+
+number: 102      type: 1     box: 000     coordinate: {0.492, 0.190952, 0}
+The closest atoms: 
+number: 85      type: 1     box: 000     coordinate: {0.451, 0.214875, 0}     distance: 0.0474689
+
+number: 103      type: 1     box: 000     coordinate: {0.533, 0.262625, 0}
+The closest atoms: 
+number: 104      type: 1     box: 000     coordinate: {0.492, 0.2865, 0}     distance: 0.0474449
+
+number: 104      type: 1     box: 000     coordinate: {0.492, 0.2865, 0}
+The closest atoms: 
+number: 87      type: 1     box: 000     coordinate: {0.451, 0.262625, 0}     distance: 0.0474449
+
+number: 105      type: 1     box: 000     coordinate: {0.533, 0.358125, 0}
+The closest atoms: 
+number: 106      type: 1     box: 000     coordinate: {0.492, 0.334202, 0}     distance: 0.0474689
+
+number: 106      type: 1     box: 000     coordinate: {0.492, 0.334202, 0}
+The closest atoms: 
+number: 89      type: 1     box: 000     coordinate: {0.451, 0.358125, 0}     distance: 0.0474689
+
+number: 107      type: 1     box: 000     coordinate: {0.533, 0.405875, 0}
+The closest atoms: 
+number: 108      type: 1     box: 000     coordinate: {0.492, 0.42975, 0}     distance: 0.0474449
+
+number: 108      type: 1     box: 000     coordinate: {0.492, 0.42975, 0}
+The closest atoms: 
+number: 91      type: 1     box: 000     coordinate: {0.451, 0.405875, 0}     distance: 0.0474449
+
+number: 109      type: 1     box: 000     coordinate: {0.533, 0.501375, 0}
+The closest atoms: 
+number: 110      type: 1     box: 000     coordinate: {0.492, 0.477452, 0}     distance: 0.0474689
+
+number: 110      type: 1     box: 000     coordinate: {0.492, 0.477452, 0}
+The closest atoms: 
+number: 93      type: 1     box: 000     coordinate: {0.451, 0.501375, 0}     distance: 0.0474689
+
+number: 111      type: 1     box: 000     coordinate: {0.533, 0.549125, 0}
+The closest atoms: 
+number: 109      type: 1     box: 000     coordinate: {0.533, 0.501375, 0}     distance: 0.04775
