@@ -1,1 +1,5 @@
 This is the code that used for find the closest atom of another atom.
+
+Input file should be a vasp file with the type and coordinates of atoms.
+
+After executed, the program will output a txt file with the information of every atom.
