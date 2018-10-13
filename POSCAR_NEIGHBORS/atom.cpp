@@ -4,35 +4,43 @@
 
 atom::atom()
 {
-	number = 0;
-	type = 0;
-	box = "000";
-	coord(0, 0, 0);
+	atomNumber = -1;
+	type = -1;
+	boxN = "";
+	c = coordinates();
 }
 
-atom::atom(int n, int TYPE, string BOX, coord C) 
+atom::atom(int t, string b, coordinates C)
 {
-	number = n;
-	type = TYPE;
-	box = BOX;
+	type = t;
+	boxN = b;
 	c = C;
 }
 
-void atom::setPosition(double a, double b, double C)
+atom::atom(int n, int t, string b, coordinates C)
 {
-	c.move(a, b, C);
+	atomNumber = n;
+	type = t;
+	boxN = b;
+	c = C;
 }
-
-double atom::distances(coord c0)
-{
-	return sqrt(pow((c.getX() - c0.getX()), 2) + pow((c.getY() - c0.getY()), 2) + pow((c.getZ() - c0.getZ()), 2));
-}
-
-
-
 
 atom::~atom()
 {
 }
 
+void atom::setClose(vector<atom> x)
+{
+	for (int i = 0; i < x.size(); i++)
+	{
+		close.push_back(x[i]);
+	}
+		
+}
 
+double atom::distance(atom a)
+{
+	double x = (this->getC().getX() - a.getC().getX()) * (this->getC().getX() - a.getC().getX()) + (this->getC().getY() - a.getC().getY()) * (this->getC().getY() - a.getC().getY()) + (this->getC().getZ() - a.getC().getZ())*(this->getC().getZ() - a.getC().getZ());
+	double y = sqrt(x);
+	return y;
+}

@@ -1,39 +1,44 @@
 #pragma once
-#include"coord.h"
-#include <string>
-#include <vector>
 #include <iostream>
+#include <string>
 #include <math.h>
+#include <vector>
+#include <stack>
 using namespace std;
+
+#include "coordinates.h"
 class atom
 {
 private:
-	int number;
+	int atomNumber;
 	int type;
-	string box;
-	coord c;
-	vector<int> closeAtoms;
+	string boxN;
+	coordinates c;
+	vector<atom> close;
+	double dis;
 public:
+	//constructors------------------------------
 	atom();
-	atom(int, int, string, coord);
+	atom(int, string, coordinates);
+	atom(int, int, string, coordinates);
 	~atom();
 
+	//mutators and accessors--------------------
+	void setautoN(int n) { atomNumber = n; };
+	void setType(int t) { type = t; };
+	void setBoxN(string b) { boxN = b; };
+	void setCoord(coordinates C) { c = C; };
+	void setClose(vector<atom> x);
+	void setDis(double d) { dis = d; };
+
+	int getAtomN() { return atomNumber; };
 	int getType() { return type; };
-	string getBox() { return box; };
-	coord getC() { return c; };
-	vector<int> getCloseAtoms() { return closeAtoms; };
-	int getNumber() { return number; };
+	string getBoxN() { return boxN; };
+	coordinates getC() { return c; };
+	vector<atom> getClose() { return close; };
+	double getDis() { return dis; };
 
-
-	void setType(int TYPE) { type = TYPE; };
-	void setNumber(int n) { number = n; };
-	void setBox(int Box) { box = Box; };
-	void setC(coord C) { c = C; };
-	void setCloseAtoms(int a) { closeAtoms.push_back(a); };
-	void setPosition(double a, double b, double c);
-
-	void print();
-	double distances(coord c0);
-
+	//functions---------------------------------
+	double distance(atom a);
 };
 
