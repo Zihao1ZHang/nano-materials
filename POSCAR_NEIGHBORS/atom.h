@@ -15,8 +15,10 @@ private:
 	string boxN;
 	coordinates c;
 	vector<atom> close;
+	
 	double dis;
 public:
+	vector<atom> distances;
 	//constructors------------------------------
 	atom();
 	atom(int, string, coordinates);
@@ -30,15 +32,19 @@ public:
 	void setCoord(coordinates C) { c = C; };
 	void setClose(vector<atom> x);
 	void setDis(double d) { dis = d; };
+	void setDistances(atom a) { distances.push_back(a); };
 
 	int getAtomN() { return atomNumber; };
 	int getType() { return type; };
 	string getBoxN() { return boxN; };
 	coordinates getC() { return c; };
 	vector<atom> getClose() { return close; };
+	vector<atom> getDistances() { return distances; };
 	double getDis() { return dis; };
 
 	//functions---------------------------------
-	double distance(atom a);
+	double distance(atom a);// finding distance between two atoms
+	bool operator<(atom & other);
+	bool operator>(atom & other);
 };
 

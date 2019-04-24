@@ -44,3 +44,13 @@ double atom::distance(atom a)
 	double y = sqrt(x);
 	return y;
 }
+
+bool atom::operator<(atom & other)
+{
+	return this->dis < other.getDis();
+}
+
+bool atom::operator>(atom & other)
+{
+	return this->dis > other.getDis();
+}
