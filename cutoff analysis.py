@@ -10,6 +10,7 @@ from scipy.misc import derivative
 # measurements
 from scipy.signal import argrelextrema
 
+#reading the data file
 xm = np.loadtxt("source/test2.txt", delimiter=" ", usecols=(0))
 ym = np.loadtxt("source/test2.txt", delimiter=" ", usecols=(1))
 
@@ -19,6 +20,7 @@ m = GEKKO()
 # parameters
 X = m.Param(value=xm)
 
+#histogram fitting
 A = m.FV(ub = 9, lb = 6.5)
 r1 = m.FV(ub = 2.6, lb = 2.2)
 a1 = m.FV(ub = 30, lb = 0.25)
@@ -72,16 +74,7 @@ print(mini.x);
 min = derivative(f, 2.77431257, dx=1e-10)
 print(min)
 
-'''
-index = 0;
-for i in range(0, int(4e5)):
-    if (derivative(f, i/4e5, n = 2, dx=1e-10) >= 0):
-        if(derivative(f, i/4e5, dx=1e-10) < min):
-            min = derivative(f, i/4e5, dx=1e-10);
-            index = i;
-print(min)
-'''
-
+#plotting the result
 plt.bar(xm,ym,align='center', width = 0.05)
 plt.xlabel('radius')
 plt.ylabel('Frequency')
