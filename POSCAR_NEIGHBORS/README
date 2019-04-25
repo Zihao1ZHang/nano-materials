@@ -1,4 +1,4 @@
-This is the code that used for find the closest atom of another atom.
+This is the code that used for find the closest atom of another atom and distance distribution between atoms. 
 
 Input file should be a vasp file with the type and coordinates of atoms.
 
